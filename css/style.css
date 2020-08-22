@@ -1,5 +1,5 @@
 body{
-    background: rgb(162, 205, 241);
+    background: rgb(53, 204, 121);
     margin-left: 24px;
     margin-right: 24px;
 }
@@ -15,6 +15,7 @@ h1{
 
 h2{
     font-family: fantasy;
+    font-weight: normal;
 }
 
 h3{
