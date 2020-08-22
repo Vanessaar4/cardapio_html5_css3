@@ -1,0 +1,63 @@
+body{
+    background: rgb(162, 205, 241);
+    margin-left: 24px;
+    margin-right: 24px;
+}
+
+header{
+    margin-top: 40px;
+}
+
+h1{
+    background: yellow;
+    font-family: fantasy;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+h3{
+    color: rgb(38, 12, 187);
+}
+
+p{
+    font-size: 18px;
+}
+
+img {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+table#tabelacard{
+    border: 1px solid #111010;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table#tabelacard td{
+    border: 1px solid #111010;
+    padding: 10px;
+    text-align: center;
+
+}
+
+caption{
+    font-size: 24px;
+   
+}
+
+table#tabelacard td.ce{
+
+    color: #ffffff;
+    background-color: #606060;
+
+}
+
+table#tabelacard td.cd{
+
+    background-color: #b1aeae;
+
+}
