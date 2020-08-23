@@ -1,5 +1,5 @@
 body{
-    background: rgb(53, 204, 121);
+    background: rgb(142, 218, 176);
     margin-left: 24px;
     margin-right: 24px;
 }
@@ -61,4 +61,10 @@ table#tabelacard td.cd{
 
     background-color: #b1aeae;
 
+}
+
+footer{
+    Font-family: fantasy;
+    margin-top: 44px;
+    background: rgb(250, 247, 56);
 }
