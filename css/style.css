@@ -68,3 +68,24 @@ footer{
     margin-top: 44px;
     background: rgb(250, 247, 56);
 }
+
+
+button{
+  
+  cursor: pointer;
+}
+
+button{
+    display: inline-block;
+  margin: 1.5em;
+  border: 0;
+  padding: 0.5em 1em;
+  text-decoration: none;
+  color: #FFF;
+  background: rgb(15, 15, 15);
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+  border-radius: 0.5em;
+  box-shadow: 3px 3px 0 3px rgb(224, 202, 5);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  
+}
